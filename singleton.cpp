@@ -110,7 +110,7 @@ g++ singleton.cpp /home/sefayet/googletest/build/lib/libgtest.a -lpthread -I /ho
 ./singleton_test
 echo "# SW_Singleton" >> README.md
 git init
-git add README.md
+git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Sefayet-Alam/SW_Singleton.git
